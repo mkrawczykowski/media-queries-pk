@@ -1,0 +1,23 @@
+h1 {
+  font-size: 30px;
+  margin: 0;
+}
+
+@media (min-width: 550px) {
+  h1 {
+    font-size: 30px;
+    margin-bottom: 20px;
+  }
+}
+
+@media (min-width: 1500px) {
+  h1 {
+    font-size: 50px;
+    text-align: center;
+  }
+}
+
+p {
+  font-size: 14px;
+  margin: 0;
+}
